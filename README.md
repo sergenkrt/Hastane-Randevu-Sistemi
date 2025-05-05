@@ -8,6 +8,7 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 
 
 > Hastane Randevu Sistemi -> Hasta Yönetimi
+> 
 **-** Yeni hasta bu kısımdan eklenebilir.
 > 
 **-** Hastanın adı soyadı sayı içermeyecek şekilde yazılmalıdır.
@@ -21,6 +22,7 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 
 
 > Hastane Randevu Sistemi -> Doktor Yönetimi
+> 
 **-** Yeni doktor bu kısımdan eklenebilir.
 >
 **-** Doktorun adı soyadında hasta eklerken olduğu gibi sayı içermemelidir.
@@ -30,4 +32,16 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 **-** Eğer eklenen doktorlardan herhangi birini silmek istersek silinecek doktor kısmından doktor seçtikten sonra sil butonuna basabiliriz.
 
 ![image](https://github.com/user-attachments/assets/73831e84-3345-4036-ba18-72fe1fabecb2)
+
+
+
+![image](https://github.com/user-attachments/assets/16c3095d-466f-4dc7-aba9-857a358fd700)
+
+
+> Hastane Randevu Sistemi -> Mevcut Randevular
+>
+**-** Randevu oluştur kısmından oluşturulan randevuler programın sol altında bulunan mevcut randevular kısmından görüntülenebilir. Eğer randevu iptal edilmek istenirse randevu seçildikten sonra "seçili randevuyu iptal et" butonuna basılmalıdır.
+
+
+![image](https://github.com/user-attachments/assets/50adadf0-8f43-4c17-b5a8-aa67752d1cd6)
 
