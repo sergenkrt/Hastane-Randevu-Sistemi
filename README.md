@@ -19,3 +19,15 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 
 ![image](https://github.com/user-attachments/assets/ae6c8046-281e-4cf7-ab7a-f2b9a58d025a)
 
+
+> Hastane Randevu Sistemi -> Doktor Yönetimi
+**-** Yeni doktor bu kısımdan eklenebilir.
+>
+**-** Doktorun adı soyadında hasta eklerken olduğu gibi sayı içermemelidir.
+>
+**-** Doktorun uzmanlık alanı, doktorun isim soyisimi yazıldıktan sonra daha önceden kodlarda belirlenmiş kategorilerden birini seçerek belirlenebilir.
+>
+**-** Eğer eklenen doktorlardan herhangi birini silmek istersek silinecek doktor kısmından doktor seçtikten sonra sil butonuna basabiliriz.
+
+![image](https://github.com/user-attachments/assets/73831e84-3345-4036-ba18-72fe1fabecb2)
+
