@@ -34,6 +34,15 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 ![image](https://github.com/user-attachments/assets/73831e84-3345-4036-ba18-72fe1fabecb2)
 
 
+> Hastane Randevu Sistemi -> Randevu Oluşturma
+>
+**-**Bu kısımdan hasta, doktorun uzmanlık alanı ve doktor bilgisi seçildikten sonra randevunun alınmak istediği tarihte seçilerek randevu alınabilir.
+>
+**-** Bu kısımda geçmiş tarihlerde randevu alınamaz.
+>
+**-** Aynı doktora aynı gün içerisinde birden fazla kez randevu alınamaz.
+>
+**-** Aynı hasta bir gün içerisinde birden fazla randevu alamaz.
 
 ![image](https://github.com/user-attachments/assets/16c3095d-466f-4dc7-aba9-857a358fd700)
 
@@ -42,6 +51,17 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 >
 **-** Randevu oluştur kısmından oluşturulan randevuler programın sol altında bulunan mevcut randevular kısmından görüntülenebilir. Eğer randevu iptal edilmek istenirse randevu seçildikten sonra "seçili randevuyu iptal et" butonuna basılmalıdır.
 
-
 ![image](https://github.com/user-attachments/assets/50adadf0-8f43-4c17-b5a8-aa67752d1cd6)
 
+
+> Veriler Nasıl Saklanır?
+
+**-** Veriler kodun çalıştığı klasör içerisinde data.json dosyası oluşturularak bu dosyaya kaydedilir ve uygulama tekrar açıldığında otomatik olarak yüklenir.
+
+
+> Uygulama nasıl yüklenir & nasıl çalıştırılır?
+
+**-** Visual Studio Code uygulamasını indirin.
+**-** Visual Studio Code uygulamasında eklentiler (extensions) kısmından Python yazın ve indirin.
+**-** Projeyi indirdikten sonra dosyayı rardan çıkartmak istediğiniz yere çıkartın. hastane_randevu isimli dosyayı daha önceden indirmiş olduğumuz Visual Studio Code ile açın.
+**-** Sağ üst kısımdan oynatma tuşuna basarak uygulamayı başlatın.
