@@ -9,8 +9,11 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 
 > Hastane Randevu Sistemi -> Hasta Yönetimi
 **-** Yeni hasta bu kısımdan eklenebilir.
+> 
 **-** Hastanın adı soyadı sayı içermeyecek şekilde yazılmalıdır.
+
 **-** Hastanın TC kimlik numarası 11 sayıdan oluşmalıdır.
+
 **-** Mevcut hastalar bu kısımdan silinecek hasta kısmına tıklanarak seçilebilir ve sil yazısına tıklanarak silinebilir.
 
 
