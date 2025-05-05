@@ -4,6 +4,7 @@
 Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçilerek randevu verilebilir ve randevular program üzerinden yönetilebilir.
 
 *-> Program açıldığında karşımıza çıkan ana görünümü bu şekildedir:*
+
 ![image](https://github.com/user-attachments/assets/310ce2e0-9905-4959-bc0a-1d9d91f5c8a7)
 
 
@@ -36,7 +37,7 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 
 > Hastane Randevu Sistemi -> Randevu Oluşturma
 >
-**-**Bu kısımdan hasta, doktorun uzmanlık alanı ve doktor bilgisi seçildikten sonra randevunun alınmak istediği tarihte seçilerek randevu alınabilir.
+**-** Bu kısımdan hasta, doktorun uzmanlık alanı ve doktor bilgisi seçildikten sonra randevunun alınmak istediği tarihte seçilerek randevu alınabilir.
 >
 **-** Bu kısımda geçmiş tarihlerde randevu alınamaz.
 >
@@ -62,6 +63,9 @@ Bu program ile hasta ve doktor kayıtları tutulabilir, Hasta ve doktorlar seçi
 > Uygulama nasıl yüklenir & nasıl çalıştırılır?
 
 **-** Visual Studio Code uygulamasını indirin.
+
 **-** Visual Studio Code uygulamasında eklentiler (extensions) kısmından Python yazın ve indirin.
+
 **-** Projeyi indirdikten sonra dosyayı rardan çıkartmak istediğiniz yere çıkartın. hastane_randevu isimli dosyayı daha önceden indirmiş olduğumuz Visual Studio Code ile açın.
+
 **-** Sağ üst kısımdan oynatma tuşuna basarak uygulamayı başlatın.
